@@ -1,4 +1,0 @@
-﻿public class App { public static void main (String[] args) { System.out.println ('prova partita'); } } 
-// aggiunta autenticazione
-// modifica fatta dal browser
-
